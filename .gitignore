@@ -1,0 +1,4 @@
+# do not upload files with the extension .dll
+*.dll
+# do not upload files with the extension .log
+*.log
